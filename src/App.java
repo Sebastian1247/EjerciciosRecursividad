@@ -2,11 +2,10 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Punto de entrada del programa. Demuestra cada ejercicio de recursividad de
- * {@link CalcularRecursividad} con datos de ejemplo e imprime su resultado.
+ * Programa principal que ejecuta cada ejercicio de recursividad con datos
+ * de ejemplo e imprime su resultado.
  *
  * @author Sebastián Verdugo Bermúdez
- * @version 1.0
  */
 public class App {
 
