@@ -1,0 +1,37 @@
+# ===== Archivos compilados de Java =====
+*.class
+bin/
+out/
+target/
+build/
+
+# ===== Documentación generada con javadoc =====
+javadoc/
+
+# ===== Archivos personales (no se suben) =====
+docs/GUION.pdf
+README_Ejemplo.md
+
+# ===== Logs y archivos temporales =====
+*.log
+*.tmp
+hs_err_pid*
+
+# ===== Empaquetados =====
+*.jar
+*.war
+*.ear
+
+# ===== IntelliJ IDEA =====
+.idea/
+*.iml
+
+# ===== VS Code =====
+# Se conserva settings.json porque define src/ y bin/ para el proyecto
+.vscode/*
+!.vscode/settings.json
+
+# ===== Sistema operativo =====
+Thumbs.db
+desktop.ini
+.DS_Store
